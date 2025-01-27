@@ -8,7 +8,7 @@
 
 /* Rodapé --------------------------------------------------------------------------------*/
       footer {
-        background-color: #aaAAA1;
+        background-color: #58AAA1;
         color: white;
         text-align: center;
         padding: 20px 10px;
@@ -85,7 +85,7 @@
           .Sobre-mim{
             max-width: 100%;
             height: 470px;
-            background-image: url('/img/Fundo\ SM.jpeg'); /* Caminho da sua imagem */
+            background-image: url('/img/Fundo\ SM.png'); /* Caminho da sua imagem */
             background-size: cover; /* Faz a imagem cobrir toda a área */
             background-position: center; /* Centraliza a imagem */
             background-repeat: no-repeat; /* Impede que a imagem se repita */
